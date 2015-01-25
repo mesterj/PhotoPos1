@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Joco\AndroidStudioProjects\PhotoPos1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-be220b38eb335326b6406b05fa5b60644c539549.jar"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="C:\Users\Joco\AndroidStudioProjects\PhotoPos1\app\build\intermediates\pre-dexed\debug\itextpdf-5.5.2-javadoc-1a7ed2e14aaae231c7e1b1f0ada8d43aee2e1517.jar"
+        jar="C:\Users\Joco\AndroidStudioProjects\PhotoPos1\app\libs\itextpdf-5.5.2-javadoc.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="368aab0ad042bc91371b8ffdabdee9e4b9e13b44"/>
+    <item
+        dex="C:\Users\Joco\AndroidStudioProjects\PhotoPos1\app\build\intermediates\pre-dexed\debug\itextpdf-5.5.2-6bcd0f0be48c9c7f60e601a2f7aa1150b57ee3b2.jar"
+        jar="C:\Users\Joco\AndroidStudioProjects\PhotoPos1\app\libs\itextpdf-5.5.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e976a517e582543faba48951f512abdb0d6fd691"/>
+
+</pre-dex-items>

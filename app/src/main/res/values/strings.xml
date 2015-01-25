@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PhotoPos1</string>
+    <string name="action_settings">Settings</string>
+    <string name="btPhoto">Készíts egy képet</string>
+    <string name="gpskkord">Jelenlegi gps koordináta</string>
+    <string name="takenPhoto">A kép amit készítettél</string>
+
+</resources>
