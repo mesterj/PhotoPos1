@@ -1,23 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<pre-dex-items>
+<items version="2" >
 
     <item
-        dex="C:\Users\Joco\AndroidStudioProjects\PhotoPos1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-be220b38eb335326b6406b05fa5b60644c539549.jar"
-        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jar="C:\munka\AndroidProjects\PhotoPos1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
         jumboMode="false"
         revision="20.0.0"
-        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\munka\AndroidProjects\PhotoPos1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_63865d705ac86b2d955aa80c061d68a5ffcd2ccd.jar" />
+    </item>
     <item
-        dex="C:\Users\Joco\AndroidStudioProjects\PhotoPos1\app\build\intermediates\pre-dexed\debug\itextpdf-5.5.2-javadoc-1a7ed2e14aaae231c7e1b1f0ada8d43aee2e1517.jar"
-        jar="C:\Users\Joco\AndroidStudioProjects\PhotoPos1\app\libs\itextpdf-5.5.2-javadoc.jar"
+        jar="C:\munka\AndroidProjects\PhotoPos1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
         jumboMode="false"
         revision="20.0.0"
-        sha1="368aab0ad042bc91371b8ffdabdee9e4b9e13b44"/>
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\munka\AndroidProjects\PhotoPos1\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_f2de701532598d37a5fd60c67bef78cfb21f500d.jar" />
+    </item>
     <item
-        dex="C:\Users\Joco\AndroidStudioProjects\PhotoPos1\app\build\intermediates\pre-dexed\debug\itextpdf-5.5.2-6bcd0f0be48c9c7f60e601a2f7aa1150b57ee3b2.jar"
-        jar="C:\Users\Joco\AndroidStudioProjects\PhotoPos1\app\libs\itextpdf-5.5.2.jar"
+        jar="F:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
         jumboMode="false"
         revision="20.0.0"
-        sha1="e976a517e582543faba48951f512abdb0d6fd691"/>
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\munka\AndroidProjects\PhotoPos1\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_06ed65caa17c1f5493448b5775d90f01ca509474.jar" />
+    </item>
+    <item
+        jar="C:\munka\AndroidProjects\PhotoPos1\app\libs\itextpdf-5.5.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e976a517e582543faba48951f512abdb0d6fd691">
+        <dex dex="C:\munka\AndroidProjects\PhotoPos1\app\build\intermediates\pre-dexed\debug\itextpdf-5.5.2_83c2937d7dc9d4ec2922173e46b7efe0fc961f1d.jar" />
+    </item>
 
-</pre-dex-items>
+</items>
